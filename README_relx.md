@@ -130,6 +130,14 @@ According to its 2023 Annual Report, RELX's market positions are either first or
 
 ## Questions and Interests ☝🏽
 
+### Questions
+
+* How closely does RELX work with Elsevier's [Digital Commons](https://www.elsevier.com/products/digital-commons)? What's the relationship? Are there ongoing joint efforts between the two?
+
+* Scopus AI is an exciting way to leverage technology that promotes research efficiencies and researcher engagement. What related activities are underway, and anything on the horizon you may share?
+
+* Does RELX, Digital Commons, and/or other groups at Elsevier have efforts underway (or interest) in the intersections between research publications, knowledge dissemination, and AI to enable learning health systems?
+
 ### Suggested ideas for RELX products or services
 
 * Build upon RELX's ecosystem to instantiate a scientific publication marketplace that rewards researchers for engagement (e.g., article reviews, data sharing, etc.) along the lines of DeSci efforts like [ResearchHub](https://www.researchhub.com/)
