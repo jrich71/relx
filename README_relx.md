@@ -52,31 +52,31 @@
 
  RELX's Scientific, Technical & Medical sector seemingly aligns best with my experience and interests. For example, the [Scopus AI team](https://stories.relx.com/scopus-ai-team/index.html) interestingly pulled together a multi-disciplinary team to develop an advanced research platform with [summarization and collaboration features](https://www.elsevier.com/en-gb/products/scopus/scopus-ai). The sector experienced around 4% growth in the [first half of 2024](https://www.thetimes.com/business-money/technology/article/comic-con-festival-ai-drive-boom-relx-sales-jtncr66w0?utm_source=chatgpt.com&region=global). Its customers fall into three areas:
  
- * Academic and Research Institutions: Universities and research centers worldwide rely on Elsevier's platforms like ScienceDirect and Scopus for access to scientific literature and research analytics.
+ * <b>Academic and Research Institutions:</b> Universities and research centers worldwide rely on Elsevier's platforms like ScienceDirect and Scopus for access to scientific literature and research analytics.
 
- * Healthcare Organizations: Hospitals and medical institutions use Elsevier's ClinicalKey and ClinicalPath for evidence-based clinical information and decision support.
+ * <b>Healthcare Organizations:</b> Hospitals and medical institutions use Elsevier's ClinicalKey and ClinicalPath for evidence-based clinical information and decision support.
 
- * Educational Institutions: Schools and universities adopt RELX's educational resources for curriculum development and student learning.
+ * <b>Educational Institutions:</b> Schools and universities adopt RELX's educational resources for curriculum development and student learning.
 
  Additional RELX products and services fit within three sectors: Risk, Legal and Exhibitions:
 
- * Legal Firms and Departments: Law firms and corporate legal departments utilize LexisNexis for comprehensive legal research and analytics.
+ * <b>Legal Firms and Departments:</b> Law firms and corporate legal departments utilize LexisNexis for comprehensive legal research and analytics.
 
- * Financial Institutions: Banks and insurance companies employ LexisNexis Risk Solutions for identity verification and fraud prevention.
+ * <b>Financial Institutions:</b> Banks and insurance companies employ LexisNexis Risk Solutions for identity verification and fraud prevention.
 
- * Government Agencies: Various governmental bodies use RELX's data analytics tools for regulatory compliance and risk management.
+ * <b>Government Agencies:</b> Various governmental bodies use RELX's data analytics tools for regulatory compliance and risk management.
 
- * Corporations: Businesses across industries leverage RELX's analytics for market research and strategic decision-making.
+ * <b>Corporations:</b> Businesses across industries leverage RELX's analytics for market research and strategic decision-making.
 
- * Publishing Houses: Publishers access RELX's databases for content and citation information.
+ * <b>Publishing Houses:</b> Publishers access RELX's databases for content and citation information.
 
- * Legal and Regulatory Bodies: Regulatory agencies utilize RELX's tools for legal information and compliance monitoring.
+ * <b>Legal and Regulatory Bodies:</b> Regulatory agencies utilize RELX's tools for legal information and compliance monitoring.
 
- * Aviation Industry: Airlines and aerospace companies use Cirium's data and analytics for operational efficiency.
+ * <b>Aviation Industry:</b> Airlines and aerospace companies use Cirium's data and analytics for operational efficiency.
  
-* What solution does this company offer that their competitors do not or cannot offer? (What is the unfair advantage they utilize?)
+* What solution does RELX offer that their competitors do not or cannot offer?
 
- The vast availability of resources and expertise appear to set RELX apart from competitors. Here is a 2023 high-level graphic of its infrastructure and data pipeline: 
+ The vast availability of resources and expertise appear to set RELX apart from competitors. Here is a 2023 high-level graphic of its infrastructure and data pipeline:
 
  ![RELX Data Pipeline](RELX_data_pipeline.png)
 
@@ -120,13 +120,13 @@ RELX tracks key performance indicators (KPIs) track progress against long-term p
 
 According to its 2023 Annual Report, RELX's market positions are either first or second in each of its four market segments:
 
-* Risk: #1 market position 🏆
+* <b>Risk: #1 market position 🏆
 
-* Scientific, Technical & Medical: #1 global market position 🏆
+* <b>Scientific, Technical & Medical: #1 global market position 🏆
 
-* Legal: # 1 market position outside the US, #2 in the US 🏆
+* <b>egal: # 1 market position outside the US, #2 in the US 🏆
 
-* Exhibitions: #2 global market position 🏆
+* <b>Exhibitions: #2 global market position 🏆
 
 ## Questions and Interests ☝🏽
 
