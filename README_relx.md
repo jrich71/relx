@@ -120,13 +120,13 @@ RELX tracks key performance indicators (KPIs) track progress against long-term p
 
 According to its 2023 Annual Report, RELX's market positions are either first or second in each of its four market segments:
 
-* <b>Risk: #1 market position 🏆
+* <b>Risk:</b> #1 market position 🏆
 
-* <b>Scientific, Technical & Medical: #1 global market position 🏆
+* <b>Scientific, Technical & Medical:</b> #1 global market position 🏆
 
-* <b>egal: # 1 market position outside the US, #2 in the US 🏆
+* <b>Legal:</b> # 1 market position outside the US, #2 in the US 🏆
 
-* <b>Exhibitions: #2 global market position 🏆
+* <b>Exhibitions:</b> #2 global market position 🏆
 
 ## Questions and Interests ☝🏽
 
